@@ -1,0 +1,661 @@
+﻿J Appl Physiol 98: 31–39, 2005;
+doi:10.1152/japplphysiol.00759.2004. Historical Perspective
+
+Robert Boyle’s landmark book of 1660 with the first experiments
+on rarified air
+
+John B. West
+Department of Medicine, University of California San Diego, La Jolla, California
+
+West, John B. Robert Boyle’s landmark book of 1660 with the first experiments
+on rarified air. J Appl Physiol 98: 31–39, 2005; doi:10.1152/japplphysiol.00759.
+2004.—In 1660, Robert Boyle (1627–1691) published his landmark book New
+Experiments Physico-Mechanicall, Touching the Spring of the Air, and its Effects
+. . . in which he described the first controlled experiments of the effects of reducing
+the pressure of the air. Critical to this work was the development of an air pump by
+Boyle with Robert Hooke (1635–1703). For the first time, it was possible to observe
+physical and physiological processes at both normal and reduced barometric
+pressures. The air pump was described in detail, although the exact design of the
+critical piston is unclear. Boyle reported 43 separate experiments, which can
+conveniently be divided into 7 groups. The first experiments were on the “spring of
+the air,” that is the pressure developed by the air when its volume was changed.
+Several experiments described the behavior of the barometer invented by Torricelli
+just 16 years before when it was introduced into the low-pressure chamber. The
+behavior of burning candles was discussed, although this emphasized early mis-
+understandings of the nature of combustion. There were some physiological
+observations, although these were later extended by Boyle and Hooke. The effects
+of the low pressure on such diverse physical phenomena as magnetism, sound
+propagation, behavior of a pendulum, evolution of gases from liquids, and the
+behavior of smoke were described. This classic book is brimming with enthusiasm
+and fresh ideas even for today and deserves to be better known.
+
+air pump; vacuum; mercury barometer; pressure-volume behavior; respiration;
+combustion
+
+IN THE HISTORY OF THE PHYSIOLOGY of high altitude, Paul Bert’s THE SETTING
+book La Pression Barométrique (2) stands out as a watershed It is interesting to trace the events leading up to the work
+contribution. This contained the first definitive demonstration described in Boyle’s book partly because of the great rapidity
+that the deleterious effects of high altitude were due to the low of progress over a period of less than 20 years. The crucial
+partial pressure of oxygen, whether this was caused by a breakthrough was made by Evangelista Torricelli (1608–
+reduction of barometric pressure or a reduced oxygen concen- 1647), who in 1643 invented the mercury barometer. He took
+tration at normal pressure. As a result, Bert is often rightly a long glass tube, which was closed at one end, filled this with
+referred to as the father of high-altitude physiology. mercury, put his thumb over the open end, and inverted the
+
+However, some 200 years before the publication of La tube in a dish of mercury. The level of the mercury in the tube
+Pression Barométrique, there was another landmark book in fell to 76 cm, and the nature of the space above it, which we
+high-altitude studies. The author was Robert Boyle (1627– now know as a vacuum, was a topic of great controversy.
+1691) and the full title was New Experiments Physico- Torricelli recognized that the column of mercury was sup-
+Mechanicall, Touching the Spring of the Air, and its Effects ported by the pressure of the atmosphere acting on the surface
+(Made, for the Most Part, in a New Pneumatical Engine) of the mercury in the dish, and in his letter to Michelangelo
+Written by Way of Letter to the Right Honorable Charles Ricci in 1644 he made the dramatic statement that “We live
+Lord Vicount of Dungarvan, Eldest Son to the Earl of Corke submerged at the bottom of an ocean of the element air, that by
+(3). The importance of this book was that it described the unquestioned experiments is known to have weight” (19). This
+first controlled experiments of the effects of reducing the concept was a major breakthrough in an area that had caused
+pressure of the air. The book was not limited to physiology, much confusion in the past, and, for example, even the great
+and in fact this topic occupied only a small portion of the Galileo only some 6 years before was confused about the
+text. But the book was so innovative and stimulating, and reason why a suction pump could only raise water 9 m. The
+such a joy to read, that it deserves to be better known by explanation he gave was related to the presumed tensile
+physiologists. strength of water (14).
+
+Torricelli’s simple but dramatic experiment resulted in a
+flurry of activity over the next 16 years. In 1648, Blaise Pascal
+
+Address for reprint requests and other correspondence: J. B. West, UCSD
+Dept. of Medicine 0623A, 9500 Gilman Dr., La Jolla, CA 92093-0623 (E-mail: (1623–1662) persuaded his brother-in-law Florin Perier to take
+jwest@ucsd.edu). a Torricellian barometer up the Puy de Dôme outside Clermont
+
+http://www. jap.org 8750-7587/05 $8.00 Copyright © 2005 the American Physiological Society 31
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+32 ROBERT BOYLE’S EXPERIMENTS
+
+in the center of France, and, as expected, the level of the
+mercury fell because, on the top of the hill, the pressure of the
+atmosphere was less. A major advance was then made in 1654
+by Otto von Guericke (1602–1686) when he constructed an air
+pump and demonstrated to the Diet of Regensburg that it was
+possible to reduce the amount of air in a glass vessel. However,
+his most famous experiment took place in 1657 when two
+metal hemispheres were constructed so that they fitted accu-
+rately with an airtight seal. When the air was pumped out of
+these, two teams of eight horses each were unable to break the
+seal. This was a very colorful demonstration of the enormous
+force that could be developed by atmospheric pressure.
+
+Boyle learned of Guericke’s experiments from a book writ-
+ten by Gaspar Schott in 1657 (17), but he soon realized that
+Guericke’s apparatus had two serious deficiencies. The most
+important was that the hollow vessel that was evacuated could
+not easily be opened, and therefore it was impossible to put
+anything inside it. Because Boyle intended to compare the
+behavior of various processes both in rarified and normal air,
+this design was inadequate. Another problem was that Gue-
+ricke’s pump was so inefficient that it required “the continual
+labour of two strong men for divers hours.” Boyle obviously
+wanted something more convenient than this.
+
+As indicated above, the book by Schott was published in
+1657, but by early 1659 Boyle had a much-improved air pump
+and was ready for experiments. The pump was designed and
+constructed by Robert Hooke (1635–1703), who was a me-
+chanical genius. He made important contributions to an ex-
+tremely wide field, including microscopy, horology, mechan-
+ics, and architecture. Boyle hardly mentioned Hooke in the
+1660 book, but later he acknowledged the great contributions
+of his assistant. In fact, it seems likely that a number of the
+experiments described in the 1660 book owed their origin to
+
+Fig. 1. Portrait of Robert Boyle (1627–1691). Reproduced from Ref. 18.
+Hooke’s interests. An example was experiment 26 on the effect
+of rarified air on the swing of a pendulum, since the motion of
+a pendulum was one of Hooke’s many interests. Boyle finished
+writing the book on December 20, 1659, and it was published here is arguably his best, but there were several sequels to this,
+in 1660. Therefore, it was only 16 years between Torricelli’s and in addition Boyle wrote extensively on theology, ethics,
+seminal discovery of the barometer and Boyle’s completion of philosophy, and chemistry.
+this remarkable book. The prodigious literary output of Boyle occurred despite
+
+tremendous political and social upheaval in England. There
+was a civil war from 1642 until 1646 with continuing unrest
+
+THE MAN after that until King Charles I was beheaded in 1649. The
+The Honourable Robert Boyle (Fig. 1) was one of the most Commonwealth that followed under Oliver Cromwell was also
+
+important figures in the history of science in the middle of the an unsettling period, and when Cromwell died in 1658 and was
+17th century and not surprisingly has been the subject of succeeded by his son Richard, there was even more unrest. The
+extensive studies. This is therefore only a brief summary of his monarchy was restored with Charles II in 1660. Boyle refers to
+career. Robert Boyle was the 14th son of the first Earl of Cork, these difficulties in his preface, where he states “I need not
+a man with extensive landholdings in Ireland. As a conse- perhaps represent to the equitable Reader, how much these
+quence, Robert was wealthy and lived the life of a 17th-century strange Confusions of this unhappy Nation, in the midst of
+gentleman. He was initially educated at home by tutors and which I have made and written these Experiments, are apt to
+then at Eton College. After spending some time on the Conti- disturb that calmness of Minde, and undistractedness of
+nent, during which he met Galileo in Florence in 1641–1642, Thoughts, that are wont to be requisite to Happy Speculations.”
+he returned to England and lived in London. He was one of a THE BOOK
+circle of friends who discussed contemporary scientific issues,
+and Boyle referred to the group as the “invisible college.” This The title page is shown in Fig. 2. This is followed by an
+later became the Royal Society in 1662. Boyle moved to 11-page preface in which Boyle gave some of his reasons for
+Oxford in 1654, taking a house next to University College, the style of the book. An interesting feature is the extent to
+where a plaque on the wall can still be found. which he emphasized that he did all the experiments himself
+
+Boyle was a prolific writer, and even now some of his (albeit with the help of Hooke). The experiments were de-
+material remains unpublished (16). His 1660 book discussed scribed in considerable detail so that readers could reproduce
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+ROBERT BOYLE’S EXPERIMENTS 33
+
+pected difficulties we found to keep out the externall Air, even
+for a little while, when some considerable part of the internal
+had been suckt out; You would peradventure allow, that I
+might have set down more circumstances than I have.” This
+little conceit of imagining that he is talking directly to his
+nephew is somewhat like the format Galileo used in his book
+referred to above (14) in which the whole of the scientific
+thesis was given in the form of a dialogue between two people.
+
+After Boyle’s preface titled “To the Reader,” there is another
+brief introduction headed “Friendly Reader,” but this was
+written by the editor of the book, Robert Sharrock (1630–
+1684), who took Boyle’s presumably handwritten manuscript
+and prepared it for publication. At the same time, he prepared
+a Latin edition because, as he said, “Since the Mountain cannot
+come to Mohamet, Mohamet will go to the Mountain.” By this,
+he meant that many scientists outside England wanted to read
+the book but could not understand English. Latin was still the
+lingua franca of the intelligentsia of the civilized world.
+
+The next section of the book is an expanded table of contents
+under the heading “A Summary of the chief Matters treated of
+in this Epistolical Discourse.” Boyle explained that the book
+begins with a “Praemium,” an old term for an introduction, that
+is devoted to a description of the pump. This is followed by
+brief descriptions of the 43 experiments in the book and a short
+conclusion at the end.1
+
+It should be added here that this 1660 edition does not
+include what we now know as Boyle’s Law, that is the inverse
+relationship between the volume of a gas and its pressure (20).
+This was added in the second edition of 1662, as described
+later.
+
+Fig. 2. Title page of the 1660 book.
+
+THE PUMP
+them if they wished. For example, on the second page of the
+preface, which is headed “To the Reader,” Boyle stated, “On The first 19 pages of the book describe the air pump in
+my being somewhat prolix in many of my Experiments, I have considerable detail. The description in the text is made much
+these Reasons to render, That some of them being altogether clearer by the fine engraving of the pump shown in Fig. 3. A
+new, seem to need the being circumstantially related, to keep modern reconstruction of the pump is shown in Fig. 4.
+the Reader from distrusting them.” It might seem strange to the Boyle divided the description into two parts. The first is the
+present-day reader that Boyle put so much emphasis on the fact glass “receiver” on the top in which the partial vacuum was
+that all the experiments were actually carried out. However, a developed and in which the experiments were carried out. The
+number of books before this contained a mixture of actual and most striking feature of this is its great size. Boyle stated that
+“thought” or imaginary experiments. As an example, Galileo in it contained 30 wine quarts, each of them containing “near 2
+his great book Dialogues Concerning Two New Sciences (14) pound of water.” In modern units, this is a volume of 28
+discussed how the force or resistance of a vacuum could be liters, which, if the receiver were spherical, would mean a
+measured. He described how a piston could be made to fit diameter of 38 cm. This is the size of the receiver in two
+perfectly in an inverted cylinder filled with water with all the modern reconstructions.2 In fact, Boyle wanted a larger re-
+air excluded. When weights were added to the piston until it ceiver, stating “We should have been better pleas’d with a
+fell, the force of the vacuum could be derived. However, this is more capacious Vessel, but the Glass-men professed them-
+not an experiment in the sense we now use the term, but an selves unable to blow a larger, of such a thickness and shape as
+imaginary situation that Galileo developed to explain a con-
+cept. Boyle was at great pains to emphasize that his experi- 1 The whole book is available on the web from Early English Books Online
+ments were actually done, and in fact some of the detail is (http://eebo.chadwyck.com/). This needs a subscription for access, but the
+rather tedious. online version is an accurate facsimile of the 1660 edition. A second edition,
+
+Another issue briefly referred to in the preface is why the published in 1662 with some additional material, is available from Books on
+Demand (UMI, Ann Arbor, MI). The contents of the text are identical but the
+
+book was written in the form of a letter to Boyle’s nephew. In pagination is different. The 1660 book is also reprinted in volume 1 of The
+fact, throughout the book, there are numerous allusions to the Works of Robert Boyle (16). This is the easiest version to read.
+recipient of the letter, which allowed Boyle to emphasize 2 There are at least two full-size modern reconstructions of the Boyle-Hooke
+important points. For example, on page 17, after describing the pump. One is in the Museum of the History of Science in Oxford, UK, and the
+
+construction of the pump, Boyle writes “Your Lordship will, other is in the Science Museum, Kensington, London, UK. Neither are
+probably on display but can be seen by appointment. Both are well worth a
+
+perhaps, think that I have been unnecessarily prolix in this first visit partly because they emphasize the great size of the pump and particularly
+part of my Discourse: But if you had seen how many unex- the receiver.
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+34 ROBERT BOYLE’S EXPERIMENTS
+
+Fig. 3. Engraving of the air pump devised by
+Robert Boyle and Robert Hooke (1635–1703).
+The complete pump is shown at center, and
+some of the disassembled parts are at right.
+Various small pieces of equipment that were
+used in the experiments are also shown. See text
+for details.
+
+was requisite to our purpose.” Boyle apparently recognized the orifice was closed with a brass ring that was cemented in place.
+enormous compressing force that would be developed on the The brass ring had a smaller hole in it 0.5 in. in diameter
+receiver when the air pressure was reduced and of course an through which smaller objects could be introduced into the
+implosion could have been disastrous. In fact, in one of the receiver. This hole was closed with a ground brass stopper,
+experiments, a glass vial containing air at normal pressure which could be rotated so that a string attached to the bottom
+exploded and cracked the receiver. could control equipment in the receiver. In addition, this
+
+At the top of the receiver, there was a round hole 4 in. in stopper could be easily removed and replaced. By contrast, the
+diameter with a lip of glass almost 1 in. high. This allowed 4-in. brass ring had to be re-cemented every time it was
+relatively large objects to be introduced into the receiver. The removed. Incidentally, Boyle makes occasional comments that
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+ROBERT BOYLE’S EXPERIMENTS 35
+
+consisted of two parts, one (marked 44 just above the rack in
+Fig. 3) “somewhat less in Diameter than the cavity of the
+cylindre, upon which is nail’d a good thick piece of tan’d shoe
+Leather, which will go so close to the Cylindre, that it will need
+to be very forcibly knock’d and ram’d in, if at any time it be
+taken out.” It is not clear from this description exactly how the
+piston is constructed. Presumably, the first part (44) is made of
+wood to accept the nails, but where the thick piece of leather
+was placed is uncertain. Conant (12) in his discussion of the
+pump shows the leather seal as nailed to the upper side of the
+wooden piece, but this would not work well to form an airtight
+seal as the piston was pulled down because the leather would
+rise up at the periphery. Much better would be to place the
+leather on the bottom of the wooden piston. This is the
+arrangement used in reverse in modern bicycle pumps. The
+reconstruction of the pump in the Science Museum in London
+interpreted Boyle’s description differently, and there the strip
+of leather is nailed around the periphery of the wooden piston.
+It is uncharacteristic of Boyle to be so vague about this
+critically important element of the pump because, of course,
+the ability of the pump to reduce the pressure in the receiver
+depended critically on the fit of the piston in the cylinder.
+
+The piston was pulled down using a rack and pinion, which
+is clear from the engraving. Finally, the cylinder had a small
+valve at the top consisting of a tapered hole with a well-fitting
+brass plug that could be easily removed. To operate the pump,
+the stopcock at the base of the receiver was closed, the plug
+valve was opened, and the piston was cranked to the top of the
+cylinder. Then the plug valve was closed, the stopcock was
+opened, and the piston was cranked down. This process was
+then repeated as necessary. In some experiments, for example
+
+Fig. 4. Modern reconstruction of the air pump in the Museum of the History experiment 37, the piston was drawn down before the stopcock
+of Science, Oxford, UK. Reproduced by permission. Photographed by the
+author. was opened.
+
+At the end of this description of the pump, Boyle apologized
+to his nephew, stating that the description may seem to be
+
+the design could be improved, and at this point he suggests that unnecessarily prolix. However, he then went on to say that he
+a better design for the 4-in. hole would be a ground glass taper included many details because of the great difficulty of getting
+“in case your Lordship should have such another Engine made the pump to perform satisfactorily. He had many problems
+for you.” with air leaks through the cement at the top and bottom of the
+
+At the bottom of the receiver was a brass stopcock similar to receiver, and we can assume that the fit of the piston in the
+designs used today. The connection between the stopcock and cylinder was always a serious problem. To reduce leaks, he
+the receiver was a challenge. The solution was to form a piece poured into the top of the receiver a little “sallad oyl” to make
+of “tin” with a conical shape and fill the space between the tin the stopcock more airtight. Also a “pretty store of oyl” was
+and the receiver with cement made of pitch, resin, and wood poured into the cylinder to lubricate the piston. Interesting (and
+ashes “well incorporated.” To prevent the cement from plug- surprising to Boyle) was the fact that adding some water to the
+ging the hole in the receiver during this process, a cork was oil improved the operation of the pump.
+placed in the hole and withdrawn through the top of the Because of the problem of leaks and the resulting loss of the
+receiver with a string after the cement had set. Modern glass- vacuum in a relatively short time, Boyle divided possible
+makers are able to form the glass to fit the stopcock, and in fact experiments into two types. The first was those that could be
+this is what was done in the modern reconstruction at the carried out in a short time, and the book concentrates on this
+Museum of the History of Science, Oxford, UK (Fig. 4). group. The second type of experiment, such as studies of the
+
+The second part of the pump was the hollow cylinder preservation of animal or other bodies in a vacuum, or the
+together with the piston, which was driven by a rack and germination and growth of vegetables, required a sustained
+pinion. The cylinder was a piece of cast brass about 14 in. long partial vacuum over a long period of time, and Boyle conceded
+with a hole 3 in. in diameter bored within it. Machining a hole that his pump could not provide this.
+of accurate constant diameter would have been a challenge, but Despite these imperfections, the pump was a major techno-
+boring large holes in metal was a well-known skill in making logical and engineering advance. As such, it owed much to the
+cannons. ingenuity of Hooke. The result was that, for the first time, it
+
+One of the most critical parts of the pump was the piston or was possible to subject various materials and processes to a
+“sucker” as Boyle referred to it. Unfortunately, the description partial vacuum while setting up an identical control experiment
+is less detailed than we would like. Boyle simply says that it in the air alongside the pump. Alternatively, the experiment
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+36 ROBERT BOYLE’S EXPERIMENTS
+
+could be performed in the receiver at normal atmospheric the weight of the air. Here, he was echoing Torricelli’s state-
+pressure and again when the air was removed. Boyle himself ment cited earlier. Boyle described how it was possible to
+was quite aware of how innovative all this was, and the demonstrate that air has weight by weighing a dry lamb’s
+modern-day reader of the 1660 book senses the excitement and bladder containing air which was compressed by tying thread
+novelty of it. around it, and comparing this with the weight of the empty
+
+How successful was the pump in developing a partial vac- bladder when the air was removed by pricking holes in the
+uum? As we shall see in experiments 17–19, Boyle reported bladder. Then, based on the density of air and the pressure at
+that the level of mercury in a Torricellian barometer could be the surface of the Earth, he referred to calculations by others
+brought down to 1 in. above the surface of the mercury trough, that the atmosphere must be at least 50 miles high in some
+indicating that the pressure had been reduced to 3% of its places.
+normal value (corresponding to an altitude of 23 km). Again, Another demonstration of the spring of the air in the daily
+in experiment 33, Boyle pumped down to a good vacuum and operation of his pump was that if the piston was drawn down
+found that it then required 150 lbs. of weight on the piston to with the stopcock closed, it was extremely difficult to remove
+pull it down. If we take the diameter of the piston as 3 in., this the small valve at the top of the cylinder. In fact, he stated that
+represents essentially full atmospheric pressure. people who tried to remove the valve under these conditions
+
+were led to believe that there was some large weight attached
+THE EXPERIMENTS to the bottom of it.
+
+A further way of demonstrating the spring of the air was to
+As indicated above, Boyle reported 43 separate experiments take a lamb’s bladder about half full of air, secured at the neck
+
+(13, 16). However, some of these are clearly related, and it is with a string, and place it in the receiver, which was then
+convenient for us to divide them into seven groups. Because evacuated. The volume of the bladder increased dramatically
+the work was done nearly 350 years ago, it is not surprising but returned to its former volume when the pressure in the
+that some experiments are more interesting than others. In receiver was returned to normal. A similar experiment had
+particular, physiology was in its infancy in 1660, and the been performed by Gilles de Roberval (1602–1675) using a
+experiments reported here precede the important studies of calf bladder exposed to low pressure by means of a Torricellian
+Boyle himself and those of Hooke, Lower, and Mayow later in barometer. In fact, Boyle reported that he was able to distend
+the century. It should be remembered that Boyle’s book ap- the bladder until it ruptured with a “great report, almost like a
+peared only 32 years after William Harvey’s groundbreaking Craker.” He also showed that a partially distended bladder
+De Motu Cordis (15), which ushered in a revolution in phys- increased its volume greatly if it was held near a fire, and he
+iology. Interestingly, Boyle was one of Harvey’s patients suggested that this might be because of increased “Agitation of
+because of his weak eyes. the Aërial Particles.” Again, this explanation is consistent with
+
+Spring of the air (experiments 1–9, 32, 33, and 36). Boyle the modern kinetic theory of gases.
+began his account of the experiments by discussing some of the In experiment 9, Boyle described how he took a glass vial
+most obvious properties of the air based on everyday use of his (spelled viol in the book) partly filled with water but with the
+“pneumatical engine” or pump. He wrote, “I hold it not unfit to neck closed by means of a glass pipe that was cemented in (this
+begin with what does constantly and regularly offer it self to is the small container marked fig. 14 in Fig. 3 just to the right
+our observation, as depending upon the Fabrick of the Engine of the center of the wooden stand). At the very first descent of
+it self, and not upon the nature of this or that particular the piston, a piece of glass flew out of the vial striking the
+Experiment which ’tis employed to try.” He then described receiver and cracking it in many places. Boyle was surprised
+how the force necessary to pull down the piston became greater that this glass vessel exploded while others made of thin glass
+with successive strokes as the amount of air in the receiver was remained intact when the pressure in the receiver was reduced.
+reduced. He attributed this to the fact that “the Particles of the He surmised that differences in the quality of the glass and the
+remaining Air, having more room to extend themselves in, will shape of the containers might be responsible. Boyle also
+less press out one another.” Therefore, the pressure of the observed wryly that receivers “are more easily crack’d then
+normal outside air resisted the downward action of the plunger procur’d” and described ways of cementing cracks in the
+more. He noted that if the air in the receiver was greatly rarified receiver with plaster so that it could continue to be used.
+and the stopcock was opened, the piston was forcibly carried to Torricellian experiments (experiments 17–19). Boyle used
+the top of the cylinder. this term to describe experiments in which he studied the effect
+
+Boyle then has a short digression on what he believed was of reducing the pressure around the mercury in the dish of a
+the mechanical basis of the spring of the air. He likened air to barometer described by Torricelli. He made it clear that these
+a fleece of wool that can be greatly compressed, but if the experiments were some of the most important that he planned
+compressing force is removed, it expands rapidly. He com- for his pneumatical engine, and he began his account of
+pared this explanation with that given by Rene Descartes experiment 17 as follows: “Proceed we now to the mention of
+(1596–1650), who had an alternative hypothesis, i.e., that the that Experiment, whereof the satisfactory tryal was the princi-
+air consisted of particles in restless agitation so that each pal Fruit I promis’d my self from our Engine. . . . I considered
+corpuscle endeavored to beat off all others coming close to it. that, if the true and onlye reason while the Quick-silver falls no
+This is similar to the modern concept of the kinetic theory of lower, be, that at the Altitude the Mercurial Cylinder in the
+gases. Boyle did not choose one model over another, although Tube, is in Aequilibrium with the Cylinder of Air, supposed to
+he thought that the first was easier to understand. reach from the adjacent Mercury to the top of the Atmosphere:
+
+Boyle then argued that the spring of the air is related to its then if this Experiment could be try’d out of the Atmosphere,
+pressure, which is high near the surface of the Earth because of the Quick-silver in the Tube would fall down to a levell with
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+ROBERT BOYLE’S EXPERIMENTS 37
+
+that in the Vessel, since then there would be no pressure on the matches, and even a pistol containing gun powder! Boyle’s
+Subjacent, to resist the weight of the Incumbent Mercury.” interpretation of why these flammable materials went out when
+Accordingly, Boyle arranged to have the mercury dish of a the air was rarified emphasizes the early state of knowledge in
+Torricellian barometer placed in his receiver while the tube of 1660. For example, he expected the fire to burn more brightly
+the barometer passed up through the hole at the top, which was when the air was removed because this would allow greater
+carefully sealed with cement. space for the products of combustion. He stated it thus:
+
+When the pressure in the receiver was reduced by cranking “Whereby it seem’d to appear that the drawing away of the
+down the piston, Boyle was very satisfied to see that the level ambient Air made the Fire go out sooner than otherwise it
+of the mercury in the barometer tube fell. By hard pumping, it would have done; though that part of the Air that we drew out
+was possible to reduce the height of the column of mercury to left the more room for the stifling steams of the Coals to be
+1 in., but despite laborious pumping the level would go no received into.” Of course Boyle knew nothing about oxygen at
+lower. Boyle attributed this to the fact that it was impossible to this time; Priestley was not to isolate it until over 100 years
+prevent small leaks of outside air into the receiver particularly later. In the experiment with the pistol, Boyle found that the
+through the cement that was used in several places. Inciden- force of the flintlock was not apparently altered, and that sparks
+tally, Boyle was obviously very pleased with this experiment were produced just as in air at normal pressure. However, the
+and repeated it in the presence of three friends, “Famous gunpowder was not ignited in most of the experiments, al-
+Mathematick Professors, Dr. Wallace, Dr. Ward and Mr. though in one the flame appeared to expand more than ex-
+Wren.” This is the same Christopher Wren who built St. Paul’s pected in normal air. Boyle also attempted to ignite combus-
+Cathedral in London and was involved in many scientific tible material within the receiver by concentrating the sun’s
+discussions. rays with a burning glass and succeeded in making smoke, but
+
+Boyle noted that the extent to which the barometer level fell the results of these experiments were unsatisfactory he said
+with the first descent of the piston was greater than with because the thickness of the glass of the receiver impeded the
+subsequent pumpings, and he correctly surmised that, as the sun’s rays.
+pressure of the air in the receiver fell, less of it could be Physiological observations (experiments 40 and 41). As
+removed with each exsuction, as he called it. In fact, he argued indicated earlier, measurements on animals form only a small
+that if one knew the volume of the receiver and the displaced part of the book. Probably one of the main reasons for this was
+volume of the piston in the pump, it should be possible to that Boyle was so intrigued by the physical consequences of
+calculate the extent to which the mercury fell. Here, he was rarifying air that studies of living things took second place. He
+close to describing Boyle’s Law, that is the inverse relationship subsequently wrote other books and articles that included some
+between volume and pressure, but this was not done in the
+1660 book. Instead, it was part of an addendum to the second physiology including “New experiments concerning the rela-
+edition of the book published in 1662, when he responded to tionship between light and air (in shining wood and fish)” (7),
+various criticisms of his work, particularly one by Franciscus “New pneumatical observations upon respiration” (9), Spring
+Linus (20). Boyle also carried out the opposite experiment in of the Air, First Continuation (8), and Spring of the Air, Second
+which he raised the pressure inside the receiver with the pump Continuation (10).
+and noted that the level of the mercury in the Torricellian In experiment 40, Boyle studied the behavior of winged
+barometer rose. insects in his receiver as he removed the air. A large fly was
+
+At this point, Boyle has a digression in which he describes introduced, and it dropped down from the side of the receiver
+variations in the height of the mercury in his Torricellian where it was walking when the pressure was reduced. A bee
+barometer when it was set up by the window of his bedroom so fell down from a flower within the receiver when the pressure
+that he could observe it over a long period of time. He states was lowered, although Boyle was unclear whether this was
+that, over a period of 5 wk, the height of the mercury varied because the air was too rarified for it to fly, or whether it was
+by 2 in., although, interestingly, he thought it fell in warm weakened by the low pressure. In a footnote, he mentions that
+weather and rose in cold weather. He was not able to explain a white butterfly at first fluttered up and down but after the
+the variations in height, although he wondered whether the pressure was reduced it “fell down as in a swoon, retaining no
+phases of the moon and the tides had some effect. He also other motion then some little trembling of the Wings.”
+made a few experiments with a water-filled barometer and These observations led to a much longer account in exper-
+noted that it was impossible to reduce the level of this below iment 41 on studies on the nature of respiration. A lark was
+1 ft. above the surface of the water in the trough, and he placed in the receiver and sprang to a good height on several
+recognized that this was because of the much lower density of occasions when the pressure was normal. But when air was
+water than mercury. removed, it began to “droop and appear sick, and very soon
+
+Burning of candles and other substances (experiments 10– after was taken with as violent and irregular Convulsions as are
+15). When Boyle placed an ordinary tallow candle in the wont to be observ’d in Poultry, when their heads are wrung
+receiver and gradually reduced the pressure, he found that the off.” Another experiment was carried out on a hen-sparrow,
+appearance of the flame changed and that it was eventually and the bird seemed to be dead 7 min after the pump was
+extinguished. He stated that after the first two or three strokes employed. However, when the air was restored, the bird
+of the pump, the flame got smaller, became blue in color, and revived and nearly escaped through the top cover, which had
+moved further up the wick until it was only at the very top. The been removed. But when the air was removed a second time,
+candle then went out. Boyle repeated this experiment with the bird convulsed and died. A mouse inserted into the receiver
+other flammable materials including “Coals, in which it behaved in a similar way, being very active initially but when
+seemed there had remained some little parcels of Fire,” the pressure was reduced appeared giddy and staggered before
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+38 ROBERT BOYLE’S EXPERIMENTS
+
+falling down unconscious. Again, the animal was revived when light was transmitted through the evacuated receiver because it
+fresh air was let in. was still possible to see objects in it.
+
+In interpreting these experiments, Boyle posed the same These experiments raised the question of whether there was
+questions as he did about the burning of candles referred to another medium called “ether” that continued to be present in
+above, and which indicate the early state of knowledge about the receiver even if all the air was evacuated. Many scientists
+both combustion and respiration. The question was whether of the time thought that to transmit light or magnetism through
+“the death of the fore-mention’d Animals preceded from the a space required the existence of some medium. They argued
+want of Air, then [than] that the Air was over-clogg’d by the that the air pump might able to remove the air but not the ether.
+steams of their Bodies, exquisitely pent up in the glass.” Boyle Experiments on the possible existence of ether were not fol-
+argues that his experiments support the former possibility lowed up in this 1660 book but are described in Boyle’s Spring
+because, when he removed air with his pump, the animals of the Air, First Continuation (8).
+clearly suffered, whereas when he readmitted air they revived. A particularly ingenious experiment was experiment 26 on
+
+Boyle then embarks on a long digression on the nature of the swing of a pendulum. Boyle, or more likely Hooke who had
+respiration. He discusses the movement of the lungs and notes done extensive studies on pendulums, expected that a pendu-
+that, since they have no muscles themselves, they must be lum would swing slightly more slowly and that the motion
+moved by the diaphragm and intercostal muscles. Interestingly, would last longer before decaying in air as opposed to a partial
+he states that “the Diaphragme seems the principal Instrument vacuum because the air would impede the motion. Accord-
+of ordinary and gentle Respiration.” ingly, two identical pendulums were constructed and set in
+
+There is a long section in which he discusses some of the motion, one inside the receiver, which was evacuated, and one
+theories of respiration in the literature, including the belief that outside. To the surprise of the observers, no consistent differ-
+its main function is to cool the blood. Much of this is of little ences could be measured between the two pendulums. An
+relevance today. However, there is an interesting passage interesting sequel to this is that it is now accepted that the
+where Boyle considers “whether or no, if a Man were rais’d to viscosity of a gas is independent of its pressure, a finding that
+the very top of the Atmosphere, he would be able to live many is counterintuitive to most people. One of the standard text-
+minutes, and would not quickly dye for the want of such Air as books of fluid dynamics when discussing this refers the reader
+we are wont to breathe here below.” He then referred to the to Boyle’s experiment done 350 years ago (11).
+experience of Joseph de Acosta in the high mountains of Peru Another surprising finding described in experiment 37 oc-
+who, when indisposed by the high altitude, stated “I therefore curred on some occasions immediately after the piston was
+perswade my self, That the Element of the Air is there so subtle drawn down and the stopcock was then opened. The reduction
+and delicate, as it is not proportional with the breathing of Man, of pressure in the receiver was accompanied by a “kinde of
+which requires a more gross and temperate Air.” The first Light in the Receiver, almost like a faint flash of Lightning in
+edition of Acosta’s famous book was published in 1590 (1), the Day-time, and almost as suddenly did it appear and van-
+and it is interesting that Boyle was familiar with it. Boyle ish.” The phenomenon was not always seen but only when the
+concluded from all this that there is a special portion of the air engine was “in a good humour” as Boyle put it. The “Appa-
+that is essential for life and that when this is removed what rition of Light” could be seen by both candlelight and daylight,
+remains will not support life. and following its appearance the sides of the receiver seemed
+
+Boyle found that all living things, including eels that were to be darkened as if some “whitish Steam” adhered to the wall.
+placed in his receiver, could not survive a prolonged reduction Boyle was at a loss to understand this phenomenon, but it was
+of pressure. However, an exception was house snails, which probably a transient condensation of water vapor produced by
+did not seem to be affected, presumably because the amount of the sudden reduction in air pressure.
+air that they needed was so small. Behavior of liquids (experiments 20–25, 28, 35, 42, and 43).
+
+Effect of rarifying the air on some physical phenomena When a liquid such as water was placed in the receiver within
+(experiments 16, 26, 27, and 37). The great curiosity of Boyle a vial that was tightly closed with a cork, no changes in the
+(and presumably Hooke) generated a series of interesting appearance of the liquid were seen. However, if the water was
+observations on physical phenomena, but they will only be suddenly exposed to the low pressure, for example by breaking
+referred to briefly. In experiment 16, a magnetized needle was the glass neck of the vial, the water immediately started to
+placed in the receiver, and Boyle showed that it could still be bubble vigorously. In one experiment, pieces of red coral
+deflected by a magnet brought to the outside of the receiver covered by vinegar were placed in the receiver. The result was
+after evacuation. This raised the question of how the magnetic the formation of a small number of bubbles at normal pressure,
+influence could be propagated in the absence of air. A similar but when the air was rarified with the pump the bubbling
+experiment (experiment 27) studied the propagation of sound increased greatly. In a further experiment, water that had been
+when a watch was suspended in the receiver by a piece of “boyl’d a pretty while” was placed inside the receiver, and this
+thread. Boyle found that the sound of the ticking disappeared time no bubbles appeared with the first three descents of the
+when the air pressure was lowered. By contrast the sound made piston. However, when the pressure was further reduced, the
+by a bell when it was struck was quieter when the air was water suddenly appeared to boil in the vial “as if it had stood
+removed but did not disappear altogether. However, a technical over a very quick Fire.”
+problem here was that the material that suspended the bell may The results of these experiments are not surprising to us
+have conducted the sound. A further issue was that since not all today, but to Boyle they raised the whole question of the nature
+the air could be removed by the pump, the residual air might of gases and liquids and particularly how it was possible for a
+have propagated the sound. Of course, Boyle recognized that liquid to contain a gas.
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.
+
+
+
+Historical Perspective
+ROBERT BOYLE’S EXPERIMENTS 39
+
+Miscellaneous experiments (experiments 29–31, 34, 38, and volume of a gas, which we now know as Boyle’s Law.
+39). Boyle’s curiosity and ingenuity resulted in a number of Hobbes’s argument was more philosophical and had to do with
+other experiments, which are now of generally minor interest the penetrative characteristics of air as an ethereal fluid, and
+either because the methods were flawed or because the objec- Boyle contended that the experimental evidence was against
+tives are of little relevance today. He studied the behavior of this. Boyle’s 1660 book makes satisfying reading even today,
+smoke in a partial vacuum because some philosophers had although some modern readers may be put off by the occa-
+argued that “Steams or Exhalations” ascend because of “pos- sional bizarre spelling and typography. For that reason, a
+itive levity,” i.e., negative weight. The confusion here was the modern version of the text (16) is easier to read. At any event,
+failure to recognize that warming a gas reduced its density. In modern students who are interested in high-altitude physiology
+another experiment, Boyle wondered whether two “exquisitely should be aware of this classic book.
+polish’d” flat pieces of marble would be pressed against each
+other by atmospheric pressure in the same way as Guericke’s GRANTS
+
+hemispheres. However, he was unable to obtain two pieces so The work was supported by National Heart, Lung, and Blood Institute Grant
+exactly ground that they remained in contact for more than 1 or RO1 HL-60698.
+
+2 min, which was the time it took him to prepare the experi- REFERENCES
+ment. Because he thought that the surfaces were not com-
+pletely flat, he wondered whether moistening them with “Spirit 1. Acosta I. Historia Natural y Moral de las Indias. Seville, Spain: Iuan de
+
+Leon, 1590.
+of wine” would help, but again the experiment was unsuccess- 2. Bert P. La Pression Barométrique, Paris: Masson, 1878. English transla-
+ful and, in any event, Boyle was not aware of the phenomenon tion by Hitchcock MA and Hitchcock FA. Columbus, OH: College Book,
+of surface tension. 1943.
+
+Experiment 34 was ingenious in that he wondered whether 3. Boyle R. New Experiments Physico-Mechanicall, Touching the Spring of
+the Air, and its Effects (Made, for the Most Part, in a New Pneumatical
+
+he could demonstrate the buoyancy of air by comparing the Engine) Written by Way of Letter to the Right Honorable Charles Lord
+weight of a half-filled bladder tied securely at the neck at Vicount of Dungarvan, Eldest Son to the Earl of Corke. Oxford: H. Hall,
+normal pressure and after reducing the pressure. The weight 1660.
+was obtained by placing the bladder on a balance with metal 4. Boyle R. Some Considerations Touching the Style of the H. Scriptures.
+
+weights at the other end. The results of this experiment were London: H. Herringman, 1661.
+5. Boyle R. The Sceptical Chymist, or, Chymico-Physical Doubts & Para-
+
+apparently confused by changes in the weight of the bladder doxes. London: J. Cadwell, 1661.
+caused by moisture in the air, and Boyle did not reach any clear 6. Boyle R. New Experiments Physico-Mechanical, Touching the Air:
+conclusion. Whereunto is Added A Defence of the Authors Explication of the Exper-
+
+An experiment in which Boyle introduced a mixture of snow iments, Against the Obiections of Franciscus Linus and Thomas Hobbes.
+Oxford: H. Hall, 1662.
+
+and common salt into the receiver did not give any clear 7. Boyle R. New experiments concerning the relationship between light and
+results, but it allowed Boyle to digress on how ice that formed air (in shining wood and fish). Phil Trans 2: 581–600, 1667.
+when water freezes can exert enormous pressures resulting in 8. Boyle R. A Continuation of New Experiments, Physico-Mechanical,
+the breaking of stones and other structures. Boyle was unaware Touching the Spring and Weight of the Eir, and their Effects. Oxford: H.
+
+of the fact that water expands as ice is formed. Hall, 1669.
+9. Boyle R. New pneumatical observations about respiration. Phil Trans 5:
+
+2011–2031, 1670.
+CONCLUSION 10. Boyle R. A Continuation of New Experiments Physico-Mechanical,
+
+Touching the Spring and Weight of the Air, and their Effects. London:
+The Boyle-Hooke pneumatical engine not only was a tri- Miles Flesher, 1682.
+
+umph of engineering, but it opened up a whole new field of 11. Chapman S and Cowling TG. The Mathematical Theory of Non-Uniform
+study. In its day, it was famous and, for example, it was often Gases (3rd ed.). Cambridge, UK: Cambridge Univ. Press, 1970.
+displayed to visitors who came to the Royal Society. Interest- 12. Conant JB. Harvard Case Histories in Experimental Science, Volume 1.
+
+Cambridge, UK: Harvard Univ. Press, 1957.
+ingly, Boyle did not immediately continue his experiments on 13. Frank R. Harvey and the Oxford Physiologists. Berkeley, CA: Univ of
+reduced air pressure after 1660 but, for example, in 1661 California Press, 1980.
+published a book on chemistry, The Sceptical Chymist (5) and, 14. Galileo G. Dialogues Concerning Two New Sciences [1638], translated by
+in a completely different area, Style of the Scriptures (4). Crew H and deSalvio A. New York: MacMillan Publishing, 1917.
+
+However, in 1662, he published a second edition of the 1660 15. Harvey W. Exercitatio Anatomica de Motu Cordis et Sanguinis in
+Animalibus. Frankfurt, Germany: Guilielmi Fitzeri, 1628.
+
+book with an addendum Whereunto is Added a Defence of the 16. Hunter M and Davis EB. The Works of Robert Boyle, 14 vols. London:
+Authors Explication of the Experiments, Against the Obiections Pickering & Chatto, 1999.
+of Franciscus Linus and Thomas Hobbes (6). Linus had argued 17. Schott GP. Gasparis Schotti Mechanica Hydraulico-Pneumatica. Fran-
+that, although the column of mercury in the Torricellian ba- cofurti ad Moenum: Sumptu Heredum Joannis Godefridi Schönwetteri
+
+Bibliopol. Francofurtens, excudebat Henricus Pigrin, Typographus Herbi-
+rometer was partly raised by atmospheric pressure, there was poli, 1657.
+another structure called a “funiculus” within the vacuum that 18. Stirling W. Some Apostles of Physiology. London: Waterlow and Sons,
+helped to support it. Boyle’s vigorous response was that Linus’ 1902.
+hypothesis of a funiculus was “partly precarious, partly unin- 19. Torricelli E. Letter of Torricelli to Michelangelo Ricci, [1644] English
+
+telligible, and partly insufficient, and besides needless.” But translation of relevant pages in High Altitude Physiology, edited by West
+JB. Stroudsburg, PA: Hutchinson Ross, 1981.
+
+the most enduring feature of his response was the demonstra- 20. West JB. The original presentation of Boyle’s Law. J Appl Physiol 87:
+tion of the inverse relationship between the pressure and 1543–1545, 1999.
+
+J Appl Physiol • VOL 98 • JANUARY 2005 • www.jap.org
+
+Downloaded from journals.physiology.org/journal/jappl (079.026.005.098) on November 19, 2020.

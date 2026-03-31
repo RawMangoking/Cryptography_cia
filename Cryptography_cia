@@ -1,0 +1,82 @@
+import re
+
+
+def load_key():
+    with open("boyle.txt", "r", encoding="utf-8") as f:
+        text1 = f.read()
+
+    with open("kelvin.txt", "r", encoding="utf-8") as f:
+        text2 = f.read()
+
+    combined = (text1 + text2).lower()
+    combined = re.sub(r'[^a-z]', '', combined)
+
+    return combined
+
+def hybrid_sdbm_hash(text, mod_size=256):
+    h = 0
+
+    for c in text:
+        h = (ord(c) ^ (h << 6) ^ (h << 16)) - h
+        h &= 0xFFFFFFFF  
+
+    return h % mod_size
+
+def encrypt(plaintext, key):
+    plaintext = plaintext.lower()
+    plaintext = re.sub(r'[^a-z]', '', plaintext)
+
+
+    cipher = []
+
+    for i, char in enumerate(plaintext):
+        p = ord(char) - ord('a')
+        k = ord(key[i]) - ord('a')
+
+        c = (p + k) % 26
+        cipher.append(chr(c + ord('a')))
+
+    cipher_text = ''.join(cipher)
+
+    hash_val = hybrid_sdbm_hash(cipher_text)
+
+    return cipher_text, hash_val
+
+
+def decrypt(cipher_text, received_hash, key):
+    computed_hash = hybrid_sdbm_hash(cipher_text)
+
+    if computed_hash != received_hash:
+        print("Hash mismatch")
+        return None
+
+    print("Hash checked")
+
+    plaintext = []
+
+    for i, char in enumerate(cipher_text):
+        c = ord(char) - ord('a')
+        k = ord(key[i]) - ord('a')
+
+        p = (c - k) % 26
+        plaintext.append(chr(p + ord('a')))
+
+    return ''.join(plaintext)
+
+
+if __name__ == "__main__":
+    key = load_key()
+
+    message = input("Enter message: ")
+
+    print("\n🔹 Original:", message)
+
+    cipher, hash_val = encrypt(message, key)
+
+    print("Encrypted text:", cipher)
+    print("\nHash:", hash_val)
+
+    decrypted = decrypt(cipher, hash_val, key)
+
+    if decrypted:
+        print("\nDecrypted text:", decrypted)
