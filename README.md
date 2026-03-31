@@ -7,4 +7,4 @@ Promts used for the CIA\
 3)can i use a temperature +pressure +coordinates as hash \
 4)how does receiver know where ciphertext starts and ends when hash is appended\
 5)Examples of simple hash functions \
-6)Is crc is viable hash function\
+6)Is crc is viable hash function
