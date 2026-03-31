@@ -1,4 +1,10 @@
-import re
+def clean_text(text):
+    text = text.lower()
+    result = ""
+    for c in text:
+        if 'a'<= c<= 'z':
+            result += c
+    return result
 
 
 def load_key():
@@ -9,42 +15,43 @@ def load_key():
         text2 = f.read()
 
     combined = (text1 + text2).lower()
-    combined = re.sub(r'[^a-z]', '', combined)
+    combined = clean_text(combined)  
 
     return combined
 
-def hybrid_sdbm_hash(text, mod_size=256):
+
+def xor_hash(text, mod_size=256):
     h = 0
 
     for c in text:
-        h = (ord(c) ^ (h << 6) ^ (h << 16)) - h
+        h = (ord(c)^(h << 6)^(h << 16)) - h
         h &= 0xFFFFFFFF  
 
     return h % mod_size
 
+
 def encrypt(plaintext, key):
     plaintext = plaintext.lower()
-    plaintext = re.sub(r'[^a-z]', '', plaintext)
-
+    plaintext = clean_text(plaintext)   
 
     cipher = []
 
     for i, char in enumerate(plaintext):
-        p = ord(char) - ord('a')
-        k = ord(key[i]) - ord('a')
+        p = ord(char)-ord('a')
+        k = ord(key[i])-ord('a')
 
         c = (p + k) % 26
-        cipher.append(chr(c + ord('a')))
+        cipher.append(chr(c+ord('a')))
 
     cipher_text = ''.join(cipher)
 
-    hash_val = hybrid_sdbm_hash(cipher_text)
+    hash_val = xor_hash(cipher_text)
 
     return cipher_text, hash_val
 
 
 def decrypt(cipher_text, received_hash, key):
-    computed_hash = hybrid_sdbm_hash(cipher_text)
+    computed_hash = xor_hash(cipher_text)
 
     if computed_hash != received_hash:
         print("Hash mismatch")
@@ -64,19 +71,18 @@ def decrypt(cipher_text, received_hash, key):
     return ''.join(plaintext)
 
 
-if __name__ == "__main__":
-    key = load_key()
+key = load_key()
 
-    message = input("Enter message: ")
+message = input("Enter message: ")
 
-    print("\n🔹 Original:", message)
+print("\nOriginal:", message)
 
-    cipher, hash_val = encrypt(message, key)
+cipher, hash_val = encrypt(message, key)
 
-    print("Encrypted text:", cipher)
-    print("\nHash:", hash_val)
+print("Encrypted text:", cipher)
+print("\nHash:", hash_val)
 
-    decrypted = decrypt(cipher, hash_val, key)
+decrypted = decrypt(cipher, hash_val, key)
 
-    if decrypted:
-        print("\nDecrypted text:", decrypted)
+if decrypted:
+    print("\nDecrypted text:", decrypted)
