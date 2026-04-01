@@ -71,18 +71,3 @@ def decrypt(cipher_text, received_hash, key):
     return ''.join(plaintext)
 
 
-key = load_key()
-
-message = input("Enter message: ")
-
-print("\nOriginal:", message)
-
-cipher, hash_val = encrypt(message, key)
-
-print("Encrypted text:", cipher)
-print("\nHash:", hash_val)
-
-decrypted = decrypt(cipher, hash_val, key)
-
-if decrypted:
-    print("\nDecrypted text:", decrypted)
