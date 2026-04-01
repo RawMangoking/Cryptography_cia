@@ -28,14 +28,14 @@ Explanation\
 `^` (XOR) → improves randomness and mixing\
 `- h` → maintains SDBM-style diffusion\
 `& 0xFFFFFFFF` → keeps value within 32-bit\
-`% 256` → produces fixed-size output\
+`% 256` → produces fixed-size output
 
 Instructions to Run\
-1. Place files:\
-   * boyle.txt\
-   * kelvin.txt\
-2. Run:\
-   test_script_main.py\
+1. Place files:
+   boyle.txt
+   kelvin.txt
+2. Run:
+   test_script_main.py
    
 4. Enter the option and message when prompted\
 
