@@ -41,11 +41,13 @@ Instructions to Run\
 
 Example 1\
 Original:hello\
+Key:jappl\
 Encrypted text:qeaaz\
 Hash:6\
 Hash checked
 
 Original:crypto\
+Key:japplp\
 Encrypted text:lrneed\
 Hash:188\
 Hash checked
