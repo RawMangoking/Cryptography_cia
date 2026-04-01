@@ -9,17 +9,17 @@ Running Key Cipher\
 The Running Key Cipher is a cipher that uses a long key derived from book.\
 
 Encryption:\
-C = (P + K) mod 26\
+C = (P + K) mod 26
 
 Decryption:\
-P = (C - K) mod 26\
+P = (C - K) mod 26
 
 Hash Function (Modified SDBM-Based):\
 The hash function used in this project is a modified version of the SDBM hash, enhanced using XOR and bit-shifting operations.\
 Function:\
 h = (ord(c) ^ (h << 6) ^ (h << 16)) - h\
 h = h & 0xFFFFFFFF\
-hash = h % 256\
+hash = h % 256
 
 Explanation\
 
@@ -43,12 +43,12 @@ Example 1\
 Original:hello\
 Encrypted text:qeaaz\
 Hash:6\
-Hash checked\
+Hash checked
 
 Original:crypto\
 Encrypted text:lrneed\
 Hash:188\
-Hash checked\
+Hash checked
 
 
 Promts used for the CIA\
