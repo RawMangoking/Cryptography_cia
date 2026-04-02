@@ -31,12 +31,11 @@ Explanation\
 `% 256` → produces fixed-size output
 
 Instructions to Run\
-1. Place files:
-   boyle.txt
-   kelvin.txt
-2. Run:
+1.Download the zip folder\
+2.extract it\
+3. Run:\
    test_script_main.py
-   
+
 4. Enter the option and message when prompted\
 
 Example 1\
