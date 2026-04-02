@@ -23,10 +23,10 @@ hash = h % 256
 
 Explanation\
 
-`ord(c)` → converts character to ASCII\
-`(h << 6)` and `(h << 16)` → spread bit influence\
-`^` (XOR) → improves randomness and mixing\
-`- h` → maintains SDBM-style diffusion\
+`ord(c)` character to ASCII\
+`(h << 6)` and `(h << 16)`   leftshift bit \
+`^` (XOR) → improves  mixing\
+`- h` \
 `& 0xFFFFFFFF` → keeps value within 32-bit\
 `% 256` → produces fixed-size output
 
