@@ -25,10 +25,10 @@ Explanation\
 
 `ord(c)` character to ASCII\
 `(h << 6)` and `(h << 16)`   leftshift bit \
-`^` (XOR) → improves  mixing\
+`^` (XOR)  improves  mixing\
 `- h` \
-`& 0xFFFFFFFF` → keeps value within 32-bit\
-`% 256` → produces fixed-size output
+`& 0xFFFFFFFF`  keeps value within 32-bit\
+`% 256` produces fixed-size output
 
 Instructions to Run\
 1.Download the zip folder\
